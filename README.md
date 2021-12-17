@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there , I'm Poojan👋
 
-<!--
-**poojanV55/poojanV55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    - In my 20's 
+    - CSE Undergrad
+    - ML/AI Enthusiast
+    - Devang Patel Institute of Advance Technology and Research
+    - 2019-2023
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on **Myself**
+- 🌱 Learning **How AI works**
+- 🤔 Looking for help with **advancement in ML technologies**
+- 📫 Reach me at: **poojanvadaliya@gmail.com** 
+- 🚀 Apart from coding I love watching **science fiction**.
+- 🧑‍🤝‍🧑 Love to organize various events.
+- ⚡ Agenda: "Making the world a better place"
