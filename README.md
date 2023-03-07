@@ -9,8 +9,8 @@
 
 - 🔭 Currently working on **Myself**
 - 🌱 Learning **How AI works**
-- 🤔 Looking for help with **advancement in ML technologies**
+- 🤔 Looking for help with **advancement in ML tech**
 - 📫 Reach me at: **poojanvadaliya@gmail.com** 
 - 🚀 Apart from coding I love watching **science fiction**.
 - 🧑‍🤝‍🧑 Love to organize various events.
-- ⚡ Agenda: "Making the world a better place"
+- ⚡ Thought : "Be always positive!"
