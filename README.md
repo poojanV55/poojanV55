@@ -4,7 +4,6 @@
     - Graduate Student At the University of Guelph
     - Teaching Assistant for Stat. 2040.
     - Masters of Data Science
-    - ML/AI Enthusiast
     - 2019-2023
 
 
