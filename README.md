@@ -1,16 +1,15 @@
 ### Hi there , I'm Poojan👋
 
     - In my 20's 
-    - Graduate Student At the University of Guelph
-    - Teaching Assistant for Stat. 2040.
+    - Graduate Research Assistant At the University of Guelph
     - Masters of Data Science
-    - 2019-2023
+    - 2023-2024
 
 
 - 🔭 Currently working on **Myself**
 - 🌱 Learning **How Math engaged Machine Learning**
-- 🤔 Looking for help with **advancement in ML tech**
+- 🤔 Wanna collaborate for **data-driven development solutions**
 - 📫 Reach me at: **poojanvadaliya@gmail.com** 
-- 🚀 Apart from code I love **science fictions and some melody**.
+- 🚀 Apart from code I love **science fictions, making presentations and some melody**.
 - 🧑‍🤝‍🧑 Love to organize various events.
-- ⚡ Thought : "Be always positive!"
+- ⚡ Thought : "Be curious and always positive!"
