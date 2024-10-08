@@ -8,7 +8,7 @@
 
 - 🔭 Currently working on **Myself**
 - 🌱 Learning **How Math engaged Machine Learning**
-- 🤔 Wanna collaborate for **data-driven development solutions**
+- 🤔 Want to collaborate for **data-driven development solutions**
 - 📫 Reach me at: **poojanvadaliya@gmail.com** 
 - 🚀 Apart from code I love **science fictions, making presentations and some melody**.
 - 🧑‍🤝‍🧑 Love to organize various events.
