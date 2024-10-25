@@ -16,7 +16,7 @@
 
 Have a peek into my secret laboratory of ongoing and completed projects right here!
 
-| Index | Project Name | Link to Project |
+| Index | Project Name | Pathway to my Projects |
 |----------|----------|----------|
 | 1 | Movie Rating Prediction ✅ | https://github.com/poojanV55/Movie_Rating_Predictions|
 | 2 | Predictive Analysis of Hospital Readmission Rates using Classification Techniques ✅ | https://github.com/poojanV55/Predictive-Analysis-of-Hospital-Readmission-Rates-using-Classification-Techniques |
