@@ -6,7 +6,7 @@
     - 2023-2024
 
 - 🔭 Currently working on **Myself**
-- 🌱 Learning **How Math engaged Machine Learning**
+- 🌱 Learning **How Math engaged Machine Learning and building Agents**
 - 🎯 Dive into my portfolio of innovative projects [right here](https://github.com/poojanV55/DATA-SCIENCE-PROJECTS).
 - 🤔 Want to collaborate for **data-driven development solutions**
 - 📫 Reach me at: **poojanvadaliya@gmail.com** 
