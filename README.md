@@ -8,7 +8,7 @@
 
 - 🔭 Currently working on **Myself**
 - 🌱 Learning to build **Scalable Agentic Systems**
-- 🎯 Dive into my portfolio of innovative projects [right here](https://github.com/poojanV55/DATA-SCIENCE-PROJECTS).
+- 🎯 Dive into my portfolio of innovative projects [right here](https://www.datascienceportfol.io/vpoojant).
 - 🤔 Want to collaborate for **data-driven development solutions**
 - 📫 Reach me at: **poojanvadaliya@gmail.com** 
 - 🚀 Apart from code I love **science fictions, making presentations and some melody**.
